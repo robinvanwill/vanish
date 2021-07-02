@@ -1,0 +1,11 @@
+name: Playervanish
+version: 1.0
+main: me.robinnoob220.playervanish.PlayerVanish
+api-version: 1.16
+authors: [robinnoob220]
+description: best vanish plugin
+
+commands:
+  vanish:
+    usage: /vanish
+    description: maak de speler vanish
